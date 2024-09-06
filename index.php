@@ -55,14 +55,14 @@
   <div class="user-count">
     <div class="total-user">
       <p>
-        2432 <br>
+        132 <br>
         Registered users
       </p>
 
     </div>
     <div class="blood-collected">
       <p>
-        2432 <br>
+        579 <br>
         Blood units collected
       </p>
 
